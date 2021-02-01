@@ -1,5 +1,4 @@
 "use strict";
-
 let numberOfFilms = +prompt('Сколько фильмов вы уже посмотрели?', ''),
     personalMovieDB = {
         count: numberOfFilms,
@@ -15,3 +14,6 @@ let numberOfFilms = +prompt('Сколько фильмов вы уже посм�
 personalMovieDB.movies [a] = b;
 personalMovieDB.movies [c] = d;
 console.log (personalMovieDB);
+
+
+
